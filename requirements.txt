@@ -1,0 +1,7 @@
+sqlite3
+pandas
+matplotlib.pyplot
+streamlit
+plotly.graph_objects
+plotly.subplots
+time
